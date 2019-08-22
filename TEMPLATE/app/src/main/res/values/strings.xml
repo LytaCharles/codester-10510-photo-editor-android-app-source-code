@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Photo Editor</string>
+
+    <string name="photo_result_prefix">PhotoEditorApp_result_</string>
+    <string name="photo_saved_toast_string">Photo Saved!</string>
+    <string name="photo_preview_prefix">PhotoEditorApp_</string>
+    <string name="directory_name">/PhotoEditorApp</string>
+    <string name="permissions_message">All permissions are not given!\nApp may not work properly, Do you want to try again?</string>
+    <string name="toast_message">Sorry, Permissions not given!</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+
+
+    <!-- Admob banner id and full ad id and app id and startapp app id. -->
+    <string name="bannerID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="full_ad_ID">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_app_ID">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!-- Startapp app id. -->
+    <string name="startapp_id">207291822</string>
+    <!-- END -->
+
+    <string name="privacy">Privacy Policy</string>
+    <string name="share">Share App</string>
+    <string name="App_Title">Photo Editor</string>
+    <string name="Share_Message">Let me recommend you this application *https://play.google.com/store/apps/details?id=your=package=name*</string>
+    <string name="exite_text">Click back again to exite</string>
+
+</resources>
